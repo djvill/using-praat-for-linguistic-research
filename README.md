@@ -1,6 +1,6 @@
 # Using Praat for Linguistic Research
 
-This is the official Github page for the Open Educational Resource 'Using Praat for Linguistic Research', written by Will Styler.
+This is Dan Villarreal's fork of [Will Styler's GitHub repo](https://github.com/stylerw/usingpraat) for his fabulous Open Educational Resource 'Using Praat for Linguistic Research'. Dan can take very little credit for what's in here---check out Will's repo!
 
 ## About the document
 
